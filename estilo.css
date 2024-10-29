@@ -1,0 +1,66 @@
+
+body{
+    background: url(imagenes/gris.jpg) ;
+}
+.contenedor{
+    width: 965px;
+    background: rgb(143, 5, 223);
+    margin: auto;
+    border-radius: 25px;
+
+}
+.header img{
+    margin-left: 10px;
+}
+
+.top {
+    margin-top: 30px;
+}
+.menu {
+    float: right;
+}
+ .menu li{
+    display: inline-block;
+ }
+
+ .menu a{
+     color: rgb(255, 145, 0);
+     text-decoration: none;
+     padding: 20px;
+ }
+
+ .menu a:hover{
+     background-color: rgb(0, 0, 0);
+ }
+
+ .col {
+     width: 265px;
+     display: inline-block;
+     vertical-align: top;
+     text-align: justify;
+     padding: 20px;
+ }
+ .col h2{
+     color: rgb(255, 153, 0);
+ }
+
+ .row {
+     text-align: center;
+ }
+
+ .footer {
+     overflow: hidden;
+ }
+
+ .footer a{
+     color: rgb(255, 136, 0);
+     text-decoration:  none;
+ }
+
+ .footer span{
+     float: left;
+     margin-top: 10px;
+     margin-left: 30px;
+       
+ }
+
